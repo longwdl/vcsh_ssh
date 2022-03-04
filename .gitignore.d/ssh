@@ -1,0 +1,6 @@
+*
+!.ssh/config
+!.gitignore.d/
+!.gitignore.d/ssh
+!.LICENSES.d/
+!.LICENSES.d/ssh
